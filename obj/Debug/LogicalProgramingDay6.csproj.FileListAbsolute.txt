@@ -1,0 +1,8 @@
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\bin\Debug\LogicalProgramingDay6.exe.config
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\bin\Debug\LogicalProgramingDay6.exe
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\bin\Debug\LogicalProgramingDay6.pdb
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\obj\Debug\LogicalProgramingDay6.csproj.AssemblyReference.cache
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\obj\Debug\LogicalProgramingDay6.csproj.SuggestedBindingRedirects.cache
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\obj\Debug\LogicalProgramingDay6.csproj.CoreCompileInputs.cache
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\obj\Debug\LogicalProgramingDay6.exe
+C:\Users\shaba\source\repos\LogicalProgramingDay6\LogicalProgramingDay6\obj\Debug\LogicalProgramingDay6.pdb
